@@ -1,2 +1,3 @@
 very easy Git CLI
 HI
+robot3 commit
